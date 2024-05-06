@@ -1,1 +1,1 @@
-# DIO Trilha Java Básico
+# DIO Lab Sintaxe
